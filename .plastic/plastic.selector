@@ -1,0 +1,4 @@
+repository "RTSDemo@gollod@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
